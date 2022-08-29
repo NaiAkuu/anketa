@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+}
+      
+.anketa {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+}
+  
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+     }
+
+a:visited {
+    color: grey;
+}
+
+.avatar {
+  width: 200px;
+  height: 250px;
+  border-radius: 28px;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.info {
+    display: flex;
+    margin-bottom: 20px;
+}
+  
+.info p {
+    color: #86898f;
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.text-info {
+    margin-left: 40px;
+}
+
+.text-info h1 {
+    margin-bottom: 10px;
+}
+
+.text-info h4 {
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+
+.skills {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background: #d2e6ec;
+}
+
+.skills h2 {
+    margin-bottom: 10px;
+  }
+
+.list li {
+  /* color: #86898f; */
+  margin-bottom: 5px;
+}
+
+.exp {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background: #d2e6ec;
+}
+
+.exp h2 {
+    margin-bottom: 10px;
+  }
+
+.table {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    border-spacing: 10px;
+}
+
